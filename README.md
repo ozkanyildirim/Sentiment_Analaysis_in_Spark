@@ -1,4 +1,4 @@
-# Sentiment_Analaysis_in_Spark
+# Sentiment_Analysis_in_Spark
 This Repo is dedicated to a sentiment analysis task from Esprit.
 
 Project Goal: Our goal is to build models with high accuracy to make correct predictions regarding given costemer comments, whether they are positive or negative.
