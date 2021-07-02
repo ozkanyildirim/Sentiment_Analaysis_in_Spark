@@ -6,7 +6,7 @@ Project Goal: Our goal is to build models with high accuracy to make correct pre
 Data: 'train data product reviews.csv' and 'test data product reviews.csv' are text data consisting of comments and bicathegorical labels.
 
 Table of contents
-Explarotory Data Analysis (Preparing Train and Test Data)
+Exploratory Data Analysis (Preparing Train and Test Data)
 I. Initials 
 II. Data Preparation 
 III. Data Visualisation 
